@@ -1,4 +1,4 @@
-# Group 41's CS109b Final Project: Heart Disease Classification
+# CS109b Final Project: Heart Disease Classification
 
 
 Update Log:
