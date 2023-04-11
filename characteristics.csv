@@ -1,0 +1,895 @@
+,ID,Sex,Age,Rhythms,Electric axis of the heart,Conduction abnormalities,Extrasystolies,Hypertrophies,Cardiac pacing,Ischemia,Non-specific repolarization abnormalities,Other states
+0,1,"F
+","51
+",Sinus bradycardia,Electric axis of the heart: left axis deviation,,,"Left ventricular overload
+Left ventricular hypertrophy",,,Non-specific repolarization abnormalities: posterior wall,
+1,2,"M
+","64
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,Non-specific repolarization abnormalities: posterior wall,
+2,3,"M
+","53
+",Sinus rhythm,Electric axis of the heart: vertical,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Ischemia: inferior wall
+Ischemia: lateral wall",,
+3,4,"M
+","56
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Incomplete right bundle branch block,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Ischemia: inferior wall
+Scar formation: inferior wall
+Undefined ischemia/scar/supp.nstemi: inferior wall",,
+4,5,"M
+","61
+",Sinus rhythm,Electric axis of the heart: horizontal,,,Left atrial hypertrophy,,,Non-specific repolarization abnormalities: inferior wall,
+5,6,"M
+","76
+",Sinus bradycardia,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Ischemia: anterior wall
+Ischemia: apical
+Ischemia: septal",,
+6,7,"M
+","50
+",Sinus rhythm,Electric axis of the heart: horizontal,,"Atrial extrasystole, type: single pac
+Atrial extrasystole: sa-nodal extrasystole","Left atrial hypertrophy
+Right atrial overload
+Left ventricular hypertrophy",,"Stemi: lateral wall
+Stemi: anterior wall
+Stemi: septal
+Stemi: apical",,
+7,8,"F
+","57
+",Atrial fibrillation,,,,,"Pacemaker presence, undefined
+Unipolar ventricular pacing","Undefined ischemia/scar/supp.nstemi: apical
+Undefined ischemia/scar/supp.nstemi: lateral wall
+Undefined ischemia/scar/supp.nstemi: septal
+Undefined ischemia/scar/supp.nstemi: anterior wall",,
+8,9,"F
+","57
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,Left atrial hypertrophy,,,Non-specific repolarization abnormalities: lateral wall,
+9,10,"F
+","79
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Complete right bundle branch block,,Left atrial hypertrophy,,Scar formation: inferior wall,,
+10,11,"M
+","54
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,Undefined ischemia/scar/supp.nstemi: inferior wall,,
+11,12,"M
+","61
+",Sinus bradycardia,Electric axis of the heart: left axis deviation,,,Left atrial hypertrophy,,,,
+12,13,"M
+","62
+",Sinus rhythm,Electric axis of the heart: left axis deviation,"I degree av block
+Incomplete left bundle branch block",,Left atrial hypertrophy,,"Scar formation: apical
+Scar formation: inferior wall
+Undefined ischemia/scar/supp.nstemi: lateral wall
+Undefined ischemia/scar/supp.nstemi: anterior wall",,
+13,14,"M
+","50
+",Sinus rhythm,Electric axis of the heart: vertical,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+14,15,"M
+","71
+",Sinus rhythm,Electric axis of the heart: left axis deviation,I degree av block,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Ischemia: anterior wall
+Ischemia: apical
+Ischemia: lateral wall
+Ischemia: septal",,
+15,16,"M
+","60
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,Ischemia: anterior wall,,
+16,17,"F
+","71
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Right ventricular hypertrophy
+Left ventricular hypertrophy",,,,
+17,18,"M
+","48
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,Ischemia: inferior wall,,
+18,19,"M
+","66
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Incomplete left bundle branch block,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,Non-specific repolarization abnormalities: posterior wall,
+19,20,"M
+","53
+",Sinus rhythm,Electric axis of the heart: vertical,I degree av block,,"Left atrial hypertrophy
+Left ventricular overload
+Left ventricular hypertrophy",,"Ischemia: inferior wall
+Ischemia: lateral wall",,
+20,21,"M
+","55
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Left anterior hemiblock,,,,"Stemi: lateral wall
+Stemi: anterior wall
+Stemi: septal
+Stemi: apical",,
+21,22,"M
+","66
+",Sinus arrhythmia,Electric axis of the heart: horizontal,Incomplete right bundle branch block,Atrial extrasystole: undefined,Left atrial hypertrophy,,,"Non-specific repolarization abnormalities: lateral wall
+Non-specific repolarization abnormalities: anterior wall",
+22,23,"M
+","64
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Complete right bundle branch block,,Left atrial hypertrophy,,,,
+23,24,"M
+","64
+",Sinus bradycardia,Electric axis of the heart: horizontal,Complete left bundle branch block,,Left atrial hypertrophy,,"Stemi: lateral wall
+Stemi: anterior wall
+Stemi: septal
+Stemi: apical",,
+24,25,"M
+","51
+",Sinus rhythm,Electric axis of the heart: normal,Incomplete right bundle branch block,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,"Non-specific repolarization abnormalities: anterior wall
+Non-specific repolarization abnormalities: apical
+Non-specific repolarization abnormalities: septal",
+25,26,"M
+","54
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Left anterior hemiblock,,Left atrial hypertrophy,,"Undefined ischemia/scar/supp.nstemi: apical
+Scar formation: lateral wall
+Scar formation: apical
+Scar formation: septal
+Undefined ischemia/scar/supp.nstemi: lateral wall
+Scar formation: anterior wall",,
+26,27,"M
+","66
+",Sinus bradycardia,Electric axis of the heart: horizontal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,"Non-specific repolarization abnormalities: lateral wall
+Non-specific repolarization abnormalities: anterior wall
+Non-specific repolarization abnormalities: inferior wall",
+27,28,"M
+","77
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Scar formation: septal
+Undefined ischemia/scar/supp.nstemi: lateral wall
+Undefined ischemia/scar/supp.nstemi: posterior wall
+Scar formation: anterior wall",,
+28,29,"M
+","41
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Undefined ischemia/scar/supp.nstemi: apical
+Undefined ischemia/scar/supp.nstemi: lateral wall
+Ischemia: posterior wall",,
+29,30,"M
+","30
+",Sinus bradycardia,Electric axis of the heart: normal,,,,,,"Non-specific repolarization abnormalities: anterior wall
+Non-specific repolarization abnormalities: septal",
+30,31,"F
+","71
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Incomplete right bundle branch block,,Left ventricular hypertrophy,,"Ischemia: inferior wall
+Ischemia: apical
+Ischemia: lateral wall",,
+31,32,"M
+","64
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Incomplete right bundle branch block,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+32,33,"M
+","53
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Stemi: lateral wall
+Stemi: anterior wall
+Stemi: septal
+Stemi: apical",,
+33,34,"F
+",">89
+",Sinus rhythm,,Iii degree av-block,,,"Pacemaker presence, undefined
+Unipolar ventricular pacing",,,
+34,35,"F
+","69
+","Atrial flutter, typical",Electric axis of the heart: vertical,,,Right ventricular hypertrophy,,,,
+35,36,"F
+","49
+",Sinus rhythm,Electric axis of the heart: normal,Incomplete right bundle branch block,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+36,37,"F
+","47
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+37,38,"F
+","59
+",Atrial fibrillation,Electric axis of the heart: left axis deviation,,"Ventricular extrasystole, localisation: rvot, anterior wall
+Ventricular extrasystole, type: intercalary pvc
+Ventricular extrasystole, type: single pvc","Left ventricular overload
+Left ventricular hypertrophy",,"Ischemia: apical
+Ischemia: lateral wall",,
+38,39,"M
+","74
+",Sinus bradycardia,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,"Non-specific repolarization abnormalities: posterior wall
+Non-specific repolarization abnormalities: anterior wall",
+39,40,"M
+","57
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+40,41,"M
+","34
+",Sinus bradycardia,Electric axis of the heart: normal,Incomplete right bundle branch block,,,,,,
+41,42,"F
+","74
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,Non-specific repolarization abnormalities: anterior wall,
+42,43,"F
+","69
+",Sinus rhythm,Electric axis of the heart: horizontal,Incomplete right bundle branch block,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+43,44,"F
+","76
+",Atrial fibrillation,Electric axis of the heart: left axis deviation,Complete left bundle branch block,,,,"Scar formation: apical
+Scar formation: septal
+Scar formation: anterior wall",,
+44,45,"F
+","84
+",Sinus rhythm,,,"Ventricular extrasystole, localisation: rvot, anterior wall
+Ventricular extrasystole, type: single pvc",,"Pacemaker presence, undefined
+Unipolar ventricular pacing
+Unipolar atrial pacing",,,
+45,46,"M
+","63
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Left anterior hemiblock,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Undefined ischemia/scar/supp.nstemi: apical
+Undefined ischemia/scar/supp.nstemi: lateral wall
+Undefined ischemia/scar/supp.nstemi: anterior wall",,
+46,47,"M
+","65
+",Sinus bradycardia,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+47,48,"M
+","68
+",Sinus rhythm,Electric axis of the heart: normal,Incomplete right bundle branch block,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+48,49,"M
+","68
+",Sinus rhythm,Electric axis of the heart: normal,,,Left ventricular hypertrophy,,,,
+49,50,"F
+","66
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Non-specific intravintricular conduction delay,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,Non-specific repolarization abnormalities: inferior wall,
+50,51,"M
+","75
+",Atrial fibrillation,Electric axis of the heart: left axis deviation,"Left anterior hemiblock
+Complete left bundle branch block",,Right ventricular hypertrophy,,,,
+51,52,"F
+","69
+","Atrial flutter, typical",Electric axis of the heart: vertical,,,Left ventricular hypertrophy,,"Undefined ischemia/scar/supp.nstemi: apical
+Undefined ischemia/scar/supp.nstemi: lateral wall",,
+52,53,"F
+","54
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+53,54,"F
+","81
+",Sinus bradycardia,Electric axis of the heart: left axis deviation,Incomplete left bundle branch block,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Undefined ischemia/scar/supp.nstemi: apical
+Undefined ischemia/scar/supp.nstemi: lateral wall
+Undefined ischemia/scar/supp.nstemi: septal
+Undefined ischemia/scar/supp.nstemi: anterior wall",,
+54,55,"F
+","54
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Left anterior hemiblock,,"Right atrial overload
+Left ventricular hypertrophy",,"Scar formation: septal
+Stemi: lateral wall
+Ischemia: posterior wall
+Stemi: anterior wall
+Stemi: septal
+Scar formation: anterior wall",,
+55,56,"F
+","46
+",Sinus rhythm,Electric axis of the heart: vertical,,,,,,,
+56,57,"F
+","65
+",Sinus rhythm,Electric axis of the heart: right axis deviation,,,"Left atrial hypertrophy
+Left ventricular overload
+Left ventricular hypertrophy",,"Scar formation: posterior wall
+Undefined ischemia/scar/supp.nstemi: anterior wall",,
+57,58,"M
+","34
+",Sinus rhythm,Electric axis of the heart: horizontal,,,,,,,
+58,59,"M
+","56
+",Sinus bradycardia,Electric axis of the heart: vertical,Non-specific intravintricular conduction delay,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+59,60,"M
+","79
+",Sinus rhythm,Electric axis of the heart: left axis deviation,"Left anterior hemiblock
+Incomplete right bundle branch block","Atrial extrasystole: left atrial
+Atrial extrasystole: undefined
+Atrial extrasystole, type: single pac",Left ventricular hypertrophy,,,Non-specific repolarization abnormalities: inferior wall,
+60,61,"M
+","58
+",Sinus rhythm,Electric axis of the heart: left axis deviation,I degree av block,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Undefined ischemia/scar/supp.nstemi: apical
+Undefined ischemia/scar/supp.nstemi: lateral wall
+Undefined ischemia/scar/supp.nstemi: septal
+Undefined ischemia/scar/supp.nstemi: anterior wall",,
+61,62,"M
+","38
+",Sinus rhythm,Electric axis of the heart: horizontal,,,,,,,
+62,63,"F
+","27
+",Sinus arrhythmia,Electric axis of the heart: vertical,,,,,,,
+63,64,"M
+","67
+",Sinus rhythm,Electric axis of the heart: horizontal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Scar formation: lateral wall
+Scar formation: septal
+Stemi: lateral wall
+Stemi: anterior wall
+Stemi: septal
+Stemi: inferior wall
+Scar formation: anterior wall",,
+64,65,"M
+","68
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Left anterior hemiblock,,Left atrial hypertrophy,,,,
+65,66,"M
+","55
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Incomplete right bundle branch block,"Atrial extrasystole: low atrial
+Atrial extrasystole, type: single pac","Left atrial hypertrophy
+Left ventricular hypertrophy",,,"Non-specific repolarization abnormalities: lateral wall
+Non-specific repolarization abnormalities: anterior wall
+Non-specific repolarization abnormalities: septal",
+66,67,"M
+","77
+",Sinus rhythm,Electric axis of the heart: vertical,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+67,68,"F
+","76
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,Non-specific repolarization abnormalities: inferior wall,
+68,69,"F
+","72
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Stemi: lateral wall
+Stemi: anterior wall
+Undefined ischemia/scar/supp.nstemi: posterior wall
+Stemi: septal",,
+69,70,"M
+","52
+",Sinus tachycardia,Electric axis of the heart: normal,Incomplete right bundle branch block,,Left atrial overload,,,,
+70,71,"M
+","32
+",Sinus bradycardia,Electric axis of the heart: normal,,,"Left atrial overload
+Right atrial overload",,,Non-specific repolarization abnormalities: inferior wall,
+71,72,"F
+","75
+",Sinus rhythm,,Incomplete right bundle branch block,,"Left atrial hypertrophy
+Left ventricular hypertrophy",P-synchrony,,,
+72,73,"M
+","57
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,"Non-specific repolarization abnormalities: lateral wall
+Non-specific repolarization abnormalities: anterior wall
+Non-specific repolarization abnormalities: septal",
+73,74,"F
+","69
+",Sinus rhythm,,Iii degree av-block,,,"Pacemaker presence, undefined
+Unipolar ventricular pacing",,,
+74,75,"F
+","68
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Undefined ischemia/scar/supp.nstemi: lateral wall
+Undefined ischemia/scar/supp.nstemi: anterior wall",,
+75,76,"F
+","71
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,Ischemia: lateral wall,,
+76,77,"M
+","71
+",Sinus rhythm,Electric axis of the heart: horizontal,"I degree av block
+Incomplete right bundle branch block",,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,"Non-specific repolarization abnormalities: anterior wall
+Non-specific repolarization abnormalities: inferior wall",
+77,78,"F
+","81
+",Sinus rhythm,Electric axis of the heart: normal,"I degree av block
+Incomplete right bundle branch block","Atrial extrasystole, type: single pac
+Atrial extrasystole: sa-nodal extrasystole","Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+78,79,"F
+","76
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,Ischemia: inferior wall,,
+79,80,"M
+","60
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Undefined ischemia/scar/supp.nstemi: apical
+Undefined ischemia/scar/supp.nstemi: anterior wall",,
+80,81,"F
+","68
+",Sinus rhythm,Electric axis of the heart: vertical,Incomplete right bundle branch block,,"Right atrial overload
+Left ventricular hypertrophy",,"Ischemia: anterior wall
+Ischemia: inferior wall
+Ischemia: apical
+Ischemia: septal",,
+81,82,"M
+","45
+",Sinus bradycardia,Electric axis of the heart: left axis deviation,"Left anterior hemiblock
+Incomplete right bundle branch block",,Left atrial hypertrophy,,"Undefined ischemia/scar/supp.nstemi: lateral wall
+Undefined ischemia/scar/supp.nstemi: inferior wall",,
+82,83,"M
+","62
+",Atrial fibrillation,Electric axis of the heart: left axis deviation,"Left anterior hemiblock
+Complete left bundle branch block","Ventricular extrasystole, type: couplet
+Ventricular extrasystole, type: single pvc
+Ventricular extrasystole, morphology: polymorphic
+Ventricular extrasystole, localisation: lvot, lvs",,,"Scar formation: septal
+Scar formation: posterior wall
+Scar formation: anterior wall",,
+83,84,"M
+","79
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Left anterior hemiblock,,Left atrial hypertrophy,,"Ischemia: inferior wall
+Undefined ischemia/scar/supp.nstemi: lateral wall
+Undefined ischemia/scar/supp.nstemi: anterior wall",,
+84,85,"F
+","51
+",Sinus rhythm,Electric axis of the heart: horizontal,Incomplete right bundle branch block,,Left atrial hypertrophy,,,"Non-specific repolarization abnormalities: anterior wall
+Non-specific repolarization abnormalities: apical
+Non-specific repolarization abnormalities: inferior wall
+Non-specific repolarization abnormalities: septal",
+85,86,"M
+","50
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Stemi: anterior wall
+Stemi: septal
+Stemi: apical",,
+86,87,"F
+","19
+",Sinus rhythm,Electric axis of the heart: vertical,,,Left atrial overload,,,Non-specific repolarization abnormalities: inferior wall,
+87,88,"F
+","59
+",Atrial fibrillation,Electric axis of the heart: normal,,,Left ventricular hypertrophy,,,"Non-specific repolarization abnormalities: lateral wall
+Non-specific repolarization abnormalities: anterior wall
+Non-specific repolarization abnormalities: apical
+Non-specific repolarization abnormalities: septal",
+88,89,"F
+","41
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,Left ventricular hypertrophy,,,Non-specific repolarization abnormalities: inferior wall,
+89,90,"F
+","69
+",Sinus rhythm,,Iii degree av-block,,,"Pacemaker presence, undefined
+Bipolar ventricular pacing",,,
+90,91,"M
+","38
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Non-specific intravintricular conduction delay,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+91,92,"F
+","70
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+92,93,"M
+","74
+",Atrial fibrillation,,,,,"Pacemaker presence, undefined
+Biventricular pacing",,,
+93,94,"M
+","41
+",Sinus rhythm,Electric axis of the heart: normal,,,Left atrial hypertrophy,,,Non-specific repolarization abnormalities: inferior wall,
+94,95,"F
+","67
+",Atrial fibrillation,,,,Left ventricular hypertrophy,"Pacemaker presence, undefined
+Unipolar ventricular pacing","Ischemia: inferior wall
+Ischemia: apical
+Ischemia: lateral wall
+Ischemia: septal",,
+95,96,"F
+","60
+",Atrial fibrillation,Electric axis of the heart: normal,,,Left ventricular hypertrophy,,,Non-specific repolarization abnormalities: inferior wall,
+96,97,"M
+","58
+",Sinus rhythm,Electric axis of the heart: left axis deviation,"Left anterior hemiblock
+Incomplete right bundle branch block",,Left atrial hypertrophy,,,Non-specific repolarization abnormalities: inferior wall,
+97,98,"M
+","53
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,Ischemia: inferior wall,,
+98,99,"M
+","28
+",Sinus arrhythmia,Electric axis of the heart: right axis deviation,Incomplete right bundle branch block,,,,,"Non-specific repolarization abnormalities: anterior wall
+Non-specific repolarization abnormalities: septal",
+99,100,"F
+","76
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left atrial overload
+Left ventricular hypertrophy",,"Ischemia: anterior wall
+Ischemia: lateral wall",,
+100,101,"M
+","44
+",Atrial fibrillation,Electric axis of the heart: vertical,,,Left ventricular hypertrophy,,,"Non-specific repolarization abnormalities: anterior wall
+Non-specific repolarization abnormalities: apical
+Non-specific repolarization abnormalities: septal",
+101,102,"F
+","62
+",Sinus rhythm,Electric axis of the heart: normal,Incomplete right bundle branch block,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+102,103,"M
+","69
+","Atrial flutter, typical",Electric axis of the heart: horizontal,Non-specific intravintricular conduction delay,,Left ventricular hypertrophy,,,,
+103,104,"F
+","75
+",Sinus rhythm,,Iii degree av-block,,,"Pacemaker presence, undefined
+P-synchrony
+Unipolar ventricular pacing",,,
+104,105,"F
+","58
+",Sinus rhythm,Electric axis of the heart: normal,,"Ventricular extrasystole, type: intercalary pvc
+Ventricular extrasystole, localisation: ivs, middle part
+Ventricular extrasystole, type: single pvc","Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+105,106,"M
+","64
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,"Ventricular extrasystole, localisation: rvot, antero-septal part
+Ventricular extrasystole, type: single pvc","Left atrial hypertrophy
+Left ventricular hypertrophy",,Scar formation: posterior wall,Non-specific repolarization abnormalities: lateral wall,
+106,107,"F
+","57
+",Sinus rhythm,Electric axis of the heart: left axis deviation,"I degree av block
+Incomplete right bundle branch block",,,,,"Non-specific repolarization abnormalities: posterior wall
+Non-specific repolarization abnormalities: lateral wall
+Non-specific repolarization abnormalities: anterior wall",
+107,108,"M
+","55
+",Irregular sinus rhythm,Electric axis of the heart: left axis deviation,"Complete right bundle branch block
+Left anterior hemiblock","Atrial extrasystole: left atrial
+Atrial extrasystole, type: quadrigemini",Left atrial hypertrophy,,,"Non-specific repolarization abnormalities: apical
+Non-specific repolarization abnormalities: septal",
+108,109,"F
+","82
+","Atrial fibrillation
+Aberrant conduction",Electric axis of the heart: left axis deviation,,,"Left ventricular overload
+Left ventricular hypertrophy",,"Undefined ischemia/scar/supp.nstemi: apical
+Undefined ischemia/scar/supp.nstemi: lateral wall
+Undefined ischemia/scar/supp.nstemi: anterior wall",,
+109,110,"M
+","62
+",Atrial fibrillation,Electric axis of the heart: left axis deviation,,"Ventricular extrasystole, type: single pvc
+Ventricular extrasystole, localisation: lvot, lvs",,,"Scar formation: lateral wall
+Scar formation: apical",,
+110,111,"F
+","87
+",Sinus rhythm,,Iii degree av-block,,,"Pacemaker presence, undefined
+Bipolar ventricular pacing",,,
+111,112,"F
+","54
+",Atrial fibrillation,Electric axis of the heart: left axis deviation,Incomplete left bundle branch block,,Left ventricular hypertrophy,,"Undefined ischemia/scar/supp.nstemi: lateral wall
+Undefined ischemia/scar/supp.nstemi: septal
+Undefined ischemia/scar/supp.nstemi: posterior wall",,
+112,113,"M
+","53
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+113,114,"M
+","58
+",Sinus tachycardia,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,Scar formation: posterior wall,,
+114,115,"M
+","44
+",Sinus bradycardia,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+115,116,"M
+","40
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Complete right bundle branch block,,Left atrial hypertrophy,,,,
+116,117,"M
+","23
+",Sinus tachycardia,Electric axis of the heart: vertical,Incomplete right bundle branch block,,,,,,
+117,118,"M
+","57
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,Early repolarization syndrome
+118,119,"M
+","26
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+119,120,"M
+","70
+",Sinus rhythm,Electric axis of the heart: horizontal,"I degree av block
+Incomplete left bundle branch block",,"Left atrial hypertrophy
+Right atrial overload
+Left ventricular overload
+Right atrial hypertrophy
+Left ventricular hypertrophy",,,,
+120,121,"M
+","68
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,Left ventricular hypertrophy,,,,
+121,122,"F
+","25
+",Sinus rhythm,Electric axis of the heart: vertical,Incomplete left bundle branch block,,,,,,
+122,123,"M
+","18
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+123,124,"M
+","66
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial overload
+Left ventricular hypertrophy",,,"Non-specific repolarization abnormalities: lateral wall
+Non-specific repolarization abnormalities: apical",
+124,125,"M
+","67
+",Sinus bradycardia,Electric axis of the heart: left axis deviation,"Left anterior hemiblock
+Incomplete right bundle branch block","Ventricular extrasystole, localisation: rvot, anterior wall
+Ventricular extrasystole, type: couplet
+Ventricular extrasystole, localisation: lv, undefined
+Ventricular extrasystole, morphology: polymorphic","Left atrial hypertrophy
+Left ventricular overload
+Left ventricular hypertrophy",,,,
+125,126,"M
+","70
+",Sinus rhythm,Electric axis of the heart: left axis deviation,"Left anterior hemiblock
+Incomplete right bundle branch block",,"Left atrial hypertrophy
+Left ventricular overload
+Left ventricular hypertrophy",,,Non-specific repolarization abnormalities: lateral wall,
+126,127,"M
+","86
+","Sinus bradycardia
+Wandering atrial pacemaker",Electric axis of the heart: horizontal,,,"Left atrial hypertrophy
+Left atrial overload
+Left ventricular overload
+Left ventricular hypertrophy",,"Undefined ischemia/scar/supp.nstemi: apical
+Undefined ischemia/scar/supp.nstemi: lateral wall
+Scar formation: posterior wall",,
+127,128,"M
+","26
+",Sinus bradycardia,Electric axis of the heart: normal,,,,,,,Early repolarization syndrome
+128,129,"M
+","88
+",Atrial fibrillation,Electric axis of the heart: left axis deviation,,,Left ventricular hypertrophy,,"Scar formation: septal
+Scar formation: anterior wall",,
+129,130,"F
+","59
+",Sinus rhythm,Electric axis of the heart: horizontal,,,Left ventricular hypertrophy,,,"Non-specific repolarization abnormalities: lateral wall
+Non-specific repolarization abnormalities: apical
+Non-specific repolarization abnormalities: septal",
+130,131,"M
+","69
+",Sinus rhythm,Electric axis of the heart: left axis deviation,I degree av block,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+131,132,"M
+","71
+",Irregular sinus rhythm,Electric axis of the heart: left axis deviation,,"Atrial extrasystole, type: allorhythmic pattern
+Atrial extrasystole, type: bigemini
+Atrial extrasystole: sa-nodal extrasystole","Right atrial overload
+Left ventricular hypertrophy",,,Non-specific repolarization abnormalities: septal,
+132,133,"M
+","68
+",Sinus bradycardia,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,"Non-specific repolarization abnormalities: lateral wall
+Non-specific repolarization abnormalities: apical",
+133,134,"M
+","65
+",Sinus bradycardia,Electric axis of the heart: left axis deviation,I degree av block,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Undefined ischemia/scar/supp.nstemi: apical
+Scar formation: apical
+Scar formation: septal
+Undefined ischemia/scar/supp.nstemi: lateral wall
+Undefined ischemia/scar/supp.nstemi: septal
+Scar formation: posterior wall
+Undefined ischemia/scar/supp.nstemi: anterior wall",,
+134,135,"M
+","26
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+135,136,"F
+","22
+",Sinus rhythm,Electric axis of the heart: vertical,,,Right atrial overload,,,,
+136,137,"F
+","58
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+137,138,"F
+","67
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Left anterior hemiblock,,Left atrial hypertrophy,,,"Non-specific repolarization abnormalities: anterior wall
+Non-specific repolarization abnormalities: apical
+Non-specific repolarization abnormalities: inferior wall
+Non-specific repolarization abnormalities: septal",
+138,139,"F
+","61
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,Non-specific repolarization abnormalities: posterior wall,
+139,140,"M
+","19
+","Sinus rhythm
+Wandering atrial pacemaker",Electric axis of the heart: normal,,,,,,,Early repolarization syndrome
+140,141,"M
+","39
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Incomplete right bundle branch block,,Right atrial overload,,,,
+141,142,"F
+","43
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+142,143,"F
+","47
+",Sinus rhythm,Electric axis of the heart: vertical,,,Left atrial hypertrophy,,,,
+143,144,"F
+","19
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,Non-specific repolarization abnormalities: inferior wall,
+144,145,"M
+","15
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,Early repolarization syndrome
+145,146,"M
+","19
+",Sinus bradycardia,Electric axis of the heart: vertical,,,,,,,
+146,147,"F
+","63
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular overload
+Left ventricular hypertrophy",,,"Non-specific repolarization abnormalities: posterior wall
+Non-specific repolarization abnormalities: lateral wall
+Non-specific repolarization abnormalities: apical",
+147,148,"F
+","26
+",Sinus rhythm,Electric axis of the heart: vertical,,,Right atrial overload,,,,
+148,149,"M
+","25
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+149,150,"F
+","35
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+150,151,"M
+","54
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+151,152,"M
+","30
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+152,153,"M
+","27
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,Non-specific repolarization abnormalities: inferior wall,
+153,154,"M
+","23
+",Sinus rhythm,Electric axis of the heart: vertical,,,,,,,
+154,155,"F
+","47
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+155,156,"F
+","22
+",Sinus arrhythmia,Electric axis of the heart: normal,Incomplete right bundle branch block,,,,,,
+156,157,"M
+","28
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+157,158,"M
+","23
+",Sinus arrhythmia,Electric axis of the heart: vertical,,,,,,Non-specific repolarization abnormalities: inferior wall,
+158,159,"M
+","23
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,Early repolarization syndrome
+159,160,"M
+","20
+",Sinus bradycardia,Electric axis of the heart: vertical,,,,,,,Early repolarization syndrome
+160,161,"M
+","19
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+161,162,"M
+","30
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+162,163,"F
+","56
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial overload
+Right atrial overload
+Left ventricular hypertrophy",,,Non-specific repolarization abnormalities: inferior wall,
+163,164,"F
+","41
+",Sinus rhythm,Electric axis of the heart: left axis deviation,Left anterior hemiblock,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,"Scar formation: septal
+Scar formation: anterior wall",Non-specific repolarization abnormalities: posterior wall,
+164,165,"F
+","57
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+165,166,"M
+","20
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+166,167,"M
+","19
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,Early repolarization syndrome
+167,168,"M
+","20
+",Sinus rhythm,Electric axis of the heart: vertical,,,,,,,
+168,169,"F
+","44
+",Sinus bradycardia,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+169,170,"F
+","35
+",Sinus bradycardia,Electric axis of the heart: normal,,,Left ventricular hypertrophy,,,,
+170,171,"M
+","24
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,Early repolarization syndrome
+171,172,"F
+","60
+",Sinus bradycardia,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,"Non-specific repolarization abnormalities: apical
+Non-specific repolarization abnormalities: septal",
+172,173,"M
+","79
+",Atrial fibrillation,Electric axis of the heart: horizontal,,,Left ventricular hypertrophy,,,Non-specific repolarization abnormalities: inferior wall,
+173,174,"F
+","39
+",Sinus rhythm,Electric axis of the heart: normal,,,Right atrial overload,,,,
+174,175,"F
+","24
+",Sinus rhythm,Electric axis of the heart: normal,"Sinoatrial blockade, undefined",,,,,,
+175,176,"M
+","60
+",Sinus rhythm,Electric axis of the heart: horizontal,Incomplete right bundle branch block,,Right atrial overload,,,Non-specific repolarization abnormalities: posterior wall,
+176,177,"F
+","18
+",Sinus rhythm,Electric axis of the heart: vertical,,,,,,,
+177,178,"M
+","44
+",Sinus arrhythmia,Electric axis of the heart: normal,,,"Left atrial overload
+Right atrial overload",,,,
+178,179,"M
+","66
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+179,180,"F
+","34
+",Sinus rhythm,Electric axis of the heart: right axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+180,181,"M
+","54
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+181,182,"F
+","38
+",Sinus rhythm,Electric axis of the heart: normal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+182,183,"M
+","63
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left atrial overload
+Left ventricular overload
+Left ventricular hypertrophy",,"Undefined ischemia/scar/supp.nstemi: posterior wall
+Undefined ischemia/scar/supp.nstemi: anterior wall",,
+183,184,"M
+","11
+","Sinus arrhythmia
+Wandering atrial pacemaker",Electric axis of the heart: normal,,,,,,,
+184,185,"M
+","19
+",Sinus rhythm,Electric axis of the heart: normal,Incomplete right bundle branch block,,"Left atrial overload
+Right atrial overload",,,,
+185,186,"F
+","42
+",Sinus rhythm,Electric axis of the heart: vertical,,,"Left atrial overload
+Right atrial overload",,,,
+186,187,"F
+","22
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+187,188,"F
+","17
+",Sinus tachycardia,Electric axis of the heart: horizontal,,,Right atrial overload,,,,
+188,189,"F
+","17
+",Sinus bradycardia,Electric axis of the heart: horizontal,,,,,,"Non-specific repolarization abnormalities: anterior wall
+Non-specific repolarization abnormalities: septal",
+189,190,"M
+","19
+",Sinus rhythm,Electric axis of the heart: vertical,,,,,,,
+190,191,"M
+","24
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,Early repolarization syndrome
+191,192,"F
+","51
+",Sinus rhythm,Electric axis of the heart: left axis deviation,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,,
+192,193,"F
+","42
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+193,194,"M
+","28
+",Sinus rhythm,Electric axis of the heart: vertical,,,,,,,
+194,195,"F
+","28
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+195,196,"F
+","63
+",Sinus rhythm,Electric axis of the heart: horizontal,,,"Left atrial hypertrophy
+Left ventricular hypertrophy",,,"Non-specific repolarization abnormalities: anterior wall
+Non-specific repolarization abnormalities: septal",
+196,197,"F
+","34
+",Sinus arrhythmia,Electric axis of the heart: normal,,,Right atrial overload,,,,
+197,198,"F
+","38
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+198,199,"F
+","34
+",Sinus rhythm,Electric axis of the heart: normal,,,,,,,
+199,200,"F
+","56
+",Sinus rhythm,Electric axis of the heart: normal,,,Left ventricular hypertrophy,,,Non-specific repolarization abnormalities: anterior wall,
