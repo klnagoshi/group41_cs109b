@@ -1,5 +1,7 @@
 # CS109b Final Project: Heart Disease Classification
 
+MILESTONE 3 GOOGLE DOCUMENT: https://docs.google.com/document/d/1uOqDRfzlNTzk3SJMBpSdcbuoPB_YwPJTBx2ISj3UBYw/edit?usp=sharing
+
 
 Update Log:
 4/11/23 - Kira
