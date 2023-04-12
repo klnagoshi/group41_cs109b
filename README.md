@@ -6,7 +6,8 @@ Update Log:
 4/12/23 - Jordan
 
 - Uploaded additional EDA file (EDA_JC.ipynb) with additional visualizations, will be merged with EDA.ipynb in the future
-  4/11/23 - Sonia
+
+4/11/23 - Sonia
 
 - Created csv files that group ECG signals by lead type across all 200 subjects, normalized using min-max scaling (files can be found in lead_csvs folder)
 - Performed PCA visualization of ECG signals by lead type
