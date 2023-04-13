@@ -3,6 +3,11 @@
 MILESTONE 3 GOOGLE DOCUMENT: [https://docs.google.com/document/d/1uOqDRfzlNTzk3SJMBpSdcbuoPB_YwPJTBx2ISj3UBYw/edit?usp=sharing](https://docs.google.com/document/d/1uOqDRfzlNTzk3SJMBpSdcbuoPB_YwPJTBx2ISj3UBYw/edit?usp=sharing)
 
 Update Log:
+
+4/12/23 - Kira
+
+- Compiled the three EDA files to submit with Milestone 3.
+
 4/12/23 - Jordan
 
 - Uploaded additional EDA file (EDA_JC.ipynb) with additional visualizations, will be merged with EDA.ipynb in the future
